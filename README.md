@@ -1,0 +1,2 @@
+# Redacted-Public-Release-CPRS-Enh-P1-Seg-2-CPRS-v31a.119-OR-3.0-485-V119-Apr-2020
+Repository containing the CIF submission for CPRS Enhancements Phase 1 Segment 2, CPRS v31a.119, OR*3.0*485, V119 received April 2020. The project team noted that his release is built on top of the CPRS GUI v31a Windows 10 (OR*3*509), but is being tracked under the CPRS Enh P1 Segment 2 umbrella. Changes in this version are limited to COVID-19 identifier enhancement only.
